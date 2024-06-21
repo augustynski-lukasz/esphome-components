@@ -129,5 +129,3 @@ async def to_code(config):
         None,
         "https://github.com/augustynski-lukasz/wmbus-drivers#amiplus-patch",
     )
-
-    
